@@ -1,0 +1,24 @@
+body {
+    background: rgb(180, 180, 180);
+  }
+
+  .container {
+    background: rgb(255, 255, 255);
+  }
+  .navbar li a {
+    color: #000;
+    text-decoration: none;
+  }
+.navbar-brand {
+      background: #71e2bc;
+      color: white;
+  }
+
+
+  h1 {
+      color: #71e2bc;
+  }
+
+  h3 {
+    color: #71e2bc;
+}
